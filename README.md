@@ -4,4 +4,4 @@ Custom Blender addons and helper scripts for animation, rigging, retargeting, an
 
 ## Tools
 
-- **Fist Pose Cleaner** *(addon)* — removes finger animation from the current action and replaces it with a static closed-fist pose.
+- **[Fist Pose Cleaner](fist-pose-cleaner/README.md)** *(addon)* — removes finger animation from the current action and replaces it with a static closed-fist pose.

@@ -1,0 +1,36 @@
+schema_version: 1
+id: blender-tools
+name: Blender Tools
+original_name: blender-tools
+short_description: A small collection of Blender utilities, currently containing a Python add-on that replaces finger animation in an active action with a static fist pose.
+repository:
+  local_name: blender-tools
+  url: https://github.com/tuumbleweed/blender-tools
+  relationship: standalone
+  parent_project: null
+project:
+  type: unknown
+  status: unknown
+  categories: [tooling, game_development]
+  start_date: null
+  end_date: null
+  date_precision: unknown
+  git_first_activity: "2026-09-23"
+  git_last_activity: "2026-09-23"
+technologies:
+  languages: [Python]
+  frameworks: [Blender Python API]
+  databases: []
+  messaging: []
+  infrastructure: []
+  tools: [Blender]
+links:
+  repository: https://github.com/tuumbleweed/blender-tools
+  demo: null
+publication:
+  visibility: review_required
+  featured: false
+  review_status: unverified
+analysis:
+  analyzed_commit: 30bf20f89712c8a0916475912cf53ad375bb080c
+  analyzed_at: "2026-10-15"
