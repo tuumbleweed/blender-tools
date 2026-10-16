@@ -30,6 +30,7 @@ links:
 publication:
   visibility: review_required
   featured: false
+  show_criticism: false
   review_status: unverified
 analysis:
   analyzed_commit: 30bf20f89712c8a0916475912cf53ad375bb080c
